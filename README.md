@@ -4,7 +4,7 @@ Just a fun project - This is a lighthearted digital experience created for enter
 
 <br>
 
-## 🔗Link: https://fyoupage.vercel.app/
+## 🔗Link: https://giftsass-topaz.vercel.app/
 
 <br>
 
@@ -18,4 +18,4 @@ Apenas um projeto descontraído - Esta é uma experiência digital criada apenas
 
 <br>
 
-## 🔗Link: https://fyoupage.vercel.app/
+## 🔗Link: https://giftsass-topaz.vercel.app/
